@@ -1,3 +1,4 @@
+<h3>Full Stack Hotel Reservation system</h3></div>
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -28,7 +29,7 @@
 <h4>admin login page</h4>
 <img src="images/adminlogin.png">
 
-<h3>Full Stack Hotel Reservation system</h3> 
+<h3>Hotel Reservation system</h3> 
 
 Description: Most of us know the popular travel reservation website booking.com  
 You are required to develop similar web application  
